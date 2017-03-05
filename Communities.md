@@ -1,0 +1,35 @@
+# 所属コミュニティ
+
+名前|役割
+---|---
+[Java女子部](https://javajo.doorkeeper.jp/)|部長
+[日本Javaユーザーグループ](http://www.java-users.jp/)|幹事
+
+# 勉強会・カンファレンス登壇
+日付|イベント|開催地|タイトル・資料
+----|------|-----|------------
+2014.11.15|[JJUG CCC 2014 Fall](http://www.java-users.jp/?page_id=1284)|東京|[Java女子部のあゆみ](https://www.slideshare.net/ihcomega/java2014-41675903)
+2015.01.16|[Tech Women New Year's Party](https://connpass.com/event/10414/)|東京|[目標女子を見つけたら人生かわるよ！！！](https://www.slideshare.net/ihcomega/tech-women-new-years-party-2015)
+2015.01.24|[JavaQne(じゃばきゅん) 2015 Fukuoka](https://atnd.org/events/61398)|福岡|[Java女子部のすゝめ](https://www.slideshare.net/ihcomega/java-43872231)
+2015.02.29|[Developers Summit 2015 / コミュニティLT](http://event.shoeisha.jp/devsumi/20150219/)|東京|[Java女子部ですごきげんよう](https://www.slideshare.net/ihcomega/2015ltjava)
+2015.05.23|[Java女子部・PyLadies Tokyo / Git for Beginners](https://javajo.doorkeeper.jp/events/24105)|東京|[2ヶ月前にgitを始めた私からこれから始める皆さんへ](https://www.slideshare.net/ihcomega/2git)
+2015.10.10|[PyCon JP 2015 パネルディスカッション ～いま求められるコミュニティの多様性と未来～](https://pycon.jp/2015/ja/events/panel/)|東京|[自己紹介スライド](https://www.slideshare.net/ihcomega/java-53786589), [動画](https://www.youtube.com/watch?v=LW8bOE9fJfc)
+2015.12.05|[合同勉強会 in 大都会岡山 -2015 Winter-](https://gbdaitokai.doorkeeper.jp/events/31149)|岡山|[Java女子部 will take over the world (野望)](https://www.slideshare.net/ihcomega/java-will-take-over-the-world)
+2016.01.10|[Java女子部 / 女性エンジニア大集合!新春LT×座談会](https://javajo.doorkeeper.jp/events/36486)|大阪|GitHubに草を生やそう ※資料非公開
+2016.01.25|[JJUGナイトセミナ Git入門](https://jjug.doorkeeper.jp/events/37249)|東京|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)
+2016.04.24|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/29018/)|大阪|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
+2016.04.24|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/29018/)|大阪|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
+2016.05.21|[JJUG CCC 2016 Spring](http://www.java-users.jp/?page_id=2377)|東京|[Spring Bootでチャットツールを作りながらWebの仕組みを理解しよう！](http://www.slideshare.net/javawomen/spring-bootweb-62247552)
+2016.05.21|[JJUG CCC 2016 Spring](http://www.java-users.jp/?page_id=2377)|東京|若者にJavaの好きなところ嫌いなところきいてみた ※資料非公開
+2016.10.23|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/40780/)|大阪|[Gitはじめの一歩](https://speakerdeck.com/ihcomega56/githazimefalse-bu)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
+2016.12.03|[JJUG CCC 2016 Fall](http://www.java-users.jp/ccc2016fall/)|東京|[マチコ&河村の怒り新党](https://speakerdeck.com/ihcomega56/matiko-and-he-cun-falsenu-rixin-dang)
+ランダム|おひとりさま勉強会|-|[#yokodokusho](https://twitter.com/search?q=%23yokodokusho)
+
+# 映像
+* [Java Women in Japan @ Java Day Tokyo 2016](https://www.youtube.com/watch?v=mJ-G_AYdJtQ&list=PL2ekzZZrxVUnUAVRzB0wT2MjHRglnPO_f&index=3)
+* [マスタープラン Javaエンジニアルートリリースカウントダウン企画 Java祭！ 安藤 幸央 先生 - 無料動画学習｜Schoo（スクー）](https://schoo.jp/class/3406)
+
+# メディア
+* [【今週のエンジニア女子 Vol.29】仕事がとてもリアルに感じられる…横田紋奈さん | RBB TODAY](http://www.rbbtoday.com/article/2016/05/06/141807.html)
+* [社内ではScala！社外ではJava！ふたつの武器を使いこなす女神に出会った♡【#ギークな女神 vol.19】 | geechs magazine](https://geechs-magazine.com/tag/entertainment/20161101)
+* [【ギークな女神特別編】6名の女性エンジニアたちに聞いた来年の目標【2017年】 | geechs magazine](https://geechs-magazine.com/tag/entertainment/20161226)
