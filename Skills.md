@@ -5,6 +5,9 @@
 * JavaScript
 * Skinny Framework
 * ScalikeJDBC
+* Ruby
+* Ruby on Rails
+* Trailblazer
 * Specs2
 * Spock
 * JUnit

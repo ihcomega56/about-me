@@ -5,7 +5,13 @@
 [Java女子部](https://javajo.doorkeeper.jp/)|部長
 [日本Javaユーザーグループ](http://www.java-users.jp/)|幹事
 
+# 書籍
+* [『いちばんやさしいGit&GitHubの教本』](https://amzn.to/2vJqYCi)
+
 # 勉強会・カンファレンス登壇
+- [Speaker Deck](http://speakerdeck.com/ihcomega56)  
+(old: [SlideShare](https://www.slideshare.net/ihcomega))
+
 日付|イベント|開催地|タイトル・資料
 ----|------|-----|------------
 2014.11.15|[JJUG CCC 2014 Fall](http://www.java-users.jp/?page_id=1284)|東京|[Java女子部のあゆみ](https://www.slideshare.net/ihcomega/java2014-41675903)
