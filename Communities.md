@@ -1,9 +1,6 @@
 # 所属コミュニティ
 
-名前|役割
----|---
-[Java女子部](https://javajo.doorkeeper.jp/)|部長
-[日本Javaユーザーグループ](http://www.java-users.jp/)|幹事
+- [Java女子部](https://javajo.doorkeeper.jp/)
 
 # 書籍
 * [『いちばんやさしいGit&GitHubの教本』](https://amzn.to/2vJqYCi)
@@ -14,21 +11,33 @@
 
 日付|イベント|開催地|タイトル・資料
 ----|------|-----|------------
-2014.11.15|[JJUG CCC 2014 Fall](http://www.java-users.jp/?page_id=1284)|東京|[Java女子部のあゆみ](https://www.slideshare.net/ihcomega/java2014-41675903)
-2015.01.16|[Tech Women New Year's Party](https://connpass.com/event/10414/)|東京|[目標女子を見つけたら人生かわるよ！！！](https://www.slideshare.net/ihcomega/tech-women-new-years-party-2015)
-2015.01.24|[JavaQne(じゃばきゅん) 2015 Fukuoka](https://atnd.org/events/61398)|福岡|[Java女子部のすゝめ](https://www.slideshare.net/ihcomega/java-43872231)
-2015.02.29|[Developers Summit 2015 / コミュニティLT](http://event.shoeisha.jp/devsumi/20150219/)|東京|[Java女子部ですごきげんよう](https://www.slideshare.net/ihcomega/2015ltjava)
-2015.05.23|[Java女子部・PyLadies Tokyo / Git for Beginners](https://javajo.doorkeeper.jp/events/24105)|東京|[2ヶ月前にgitを始めた私からこれから始める皆さんへ](https://www.slideshare.net/ihcomega/2git)
-2015.10.10|[PyCon JP 2015 パネルディスカッション ～いま求められるコミュニティの多様性と未来～](https://pycon.jp/2015/ja/events/panel/)|東京|[自己紹介スライド](https://www.slideshare.net/ihcomega/java-53786589), [動画](https://www.youtube.com/watch?v=LW8bOE9fJfc)
-2015.12.05|[合同勉強会 in 大都会岡山 -2015 Winter-](https://gbdaitokai.doorkeeper.jp/events/31149)|岡山|[Java女子部 will take over the world (野望)](https://www.slideshare.net/ihcomega/java-will-take-over-the-world)
-2016.01.10|[Java女子部 / 女性エンジニア大集合!新春LT×座談会](https://javajo.doorkeeper.jp/events/36486)|大阪|GitHubに草を生やそう ※資料非公開
-2016.01.25|[JJUGナイトセミナ Git入門](https://jjug.doorkeeper.jp/events/37249)|東京|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)
-2016.04.24|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/29018/)|大阪|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
-2016.04.24|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/29018/)|大阪|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
-2016.05.21|[JJUG CCC 2016 Spring](http://www.java-users.jp/?page_id=2377)|東京|[Spring Bootでチャットツールを作りながらWebの仕組みを理解しよう！](http://www.slideshare.net/javawomen/spring-bootweb-62247552)
-2016.05.21|[JJUG CCC 2016 Spring](http://www.java-users.jp/?page_id=2377)|東京|若者にJavaの好きなところ嫌いなところきいてみた ※資料非公開
-2016.10.23|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/40780/)|大阪|[Gitはじめの一歩](https://speakerdeck.com/ihcomega56/githazimefalse-bu)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
+2019.08.14|[Scramble! #3 FOLIO流 複雑なドメインとの戦い方](https://folio.connpass.com/event/138324/)|東京|[本当にはじめられたイベントストーミング ―実践してみて見えたこと―](https://speakerdeck.com/ihcomega56/ben-dang-nihazimeraretaibentosutomingu-shi-jian-sitemitejian-etakoto)
+2019.04.20|[いちばんやさしいGitのハンズオン](https://kanjava.connpass.com/event/126258/)|大阪|[『いちばんやさしいGit&GitHubの教本』](https://amzn.to/2vJqYCi)
+2019.04.26|[JJUGナイトセミナー 「いちばんやさしいGit・GitHub入門」](https://jjug.doorkeeper.jp/events/89752)|東京|[いちばんやさしいGitHub入門](https://speakerdeck.com/ihcomega56/itibanyasasiigithubru-men)
+2017.12.23|[皆でセッション大会！Java SE 9を教え合おう！ ](https://javajo.doorkeeper.jp/events/68251)|東京|[JShellで遊んでみよう](https://speakerdeck.com/ihcomega56/jshelldeyou-ndemiyou)
+2017.11.18|[JJUG CCC 2017 Fall](http://www.java-users.jp/ccc2017fall/)|東京|[年齢も経験も関係ない！ステップアップするためのJavaコミュニティ活用術](https://speakerdeck.com/ihcomega56/nian-ling-mojing-yan-moguan-xi-nai-sutetuhuatuhusurutamefalsejavakomiyuniteihuo-yong-shu)
+2017.10.21|[Java SE 9/EE 8リリースイベント 兼 JavaOne 2017 報告会](https://jjug.doorkeeper.jp/events/66256)|東京|[Attend JavaOne as a Community Master](https://speakerdeck.com/ihcomega56/attend-javaone-as-a-community-master)
+2017.10.01|[JavaOne 2017]|サンフランシスコ|[Growth of a woman community In Japan](https://speakerdeck.com/ihcomega56/growth-of-a-woman-community-in-japan)
+2017.05.20|[JJUG CCC 2017 Spring](http://www.java-users.jp/ccc2017spring/)|東京|[ 文型さえおさえれば英語を読む力はあがる！](https://speakerdeck.com/ihcomega56/wen-xing-saeosaerebaying-yu-wodu-muli-haagaru)
+2017.05.13|[Java x Scala 交流会](https://javajo.doorkeeper.jp/events/59755)|東京|[Option(al)が教えてくれたいろんな言語を知る楽しさ(というかひたすらOptionの解説)](https://speakerdeck.com/ihcomega56/option-al-gajiao-etekuretaironnayan-yu-wozhi-rule-sisa-toiukahitasuraoptionfalsejie-shuo)
 2016.12.03|[JJUG CCC 2016 Fall](http://www.java-users.jp/ccc2016fall/)|東京|[マチコ&河村の怒り新党](https://speakerdeck.com/ihcomega56/matiko-and-he-cun-falsenu-rixin-dang)
+2016.10.23|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/40780/)|大阪|[Gitはじめの一歩](https://speakerdeck.com/ihcomega56/githazimefalse-bu)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
+2016.05.21|[JJUG CCC 2016 Spring](http://www.java-users.jp/?page_id=2377)|東京|若者にJavaの好きなところ嫌いなところきいてみた ※資料非公開
+2016.05.21|[JJUG CCC 2016 Spring](http://www.java-users.jp/?page_id=2377)|東京|[Spring Bootでチャットツールを作りながらWebの仕組みを理解しよう！](http://www.slideshare.net/javawomen/spring-bootweb-62247552)
+2016.04.24|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/29018/)|大阪|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
+2016.04.24|[関西Java女子部 / Git入門](https://javajok.connpass.com/event/29018/)|大阪|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)、[ハンズオン資料](https://github.com/ihcomega56/git-handson)
+2016.01.25|[JJUGナイトセミナ Git入門](https://jjug.doorkeeper.jp/events/37249)|東京|[Gitはじめの一歩](https://www.slideshare.net/ihcomega/git-57454868)
+2016.01.10|[Java女子部 / 女性エンジニア大集合!新春LT×座談会](https://javajo.doorkeeper.jp/events/36486)|大阪|GitHubに草を生やそう ※資料非公開
+2015.12.05|[合同勉強会 in 大都会岡山 -2015 Winter-](https://gbdaitokai.doorkeeper.jp/events/31149)|岡山|[Java女子部 will take over the world (野望)](https://www.slideshare.net/ihcomega/java-will-take-over-the-world)
+2015.10.10|[PyCon JP 2015 パネルディスカッション ～いま求められるコミュニティの多様性と未来～](https://pycon.jp/2015/ja/events/panel/)|東京|[自己紹介スライド](https://www.slideshare.net/ihcomega/java-53786589), [動画](https://www.youtube.com/watch?v=LW8bOE9fJfc)
+2015.05.23|[Java女子部・PyLadies Tokyo / Git for Beginners](https://javajo.doorkeeper.jp/events/24105)|東京|[2ヶ月前にgitを始めた私からこれから始める皆さんへ](https://www.slideshare.net/ihcomega/2git)
+2015.02.29|[Developers Summit 2015 / コミュニティLT](http://event.shoeisha.jp/devsumi/20150219/)|東京|[Java女子部ですごきげんよう](https://www.slideshare.net/ihcomega/2015ltjava)
+2015.01.24|[JavaQne(じゃばきゅん) 2015 Fukuoka](https://atnd.org/events/61398)|福岡|[Java女子部のすゝめ](https://www.slideshare.net/ihcomega/java-43872231)
+2015.01.16|[Tech Women New Year's Party](https://connpass.com/event/10414/)|東京|[目標女子を見つけたら人生かわるよ！！！](https://www.slideshare.net/ihcomega/tech-women-new-years-party-2015)
+2014.11.15|[JJUG CCC 2014 Fall](http://www.java-users.jp/?page_id=1284)|東京|[Java女子部のあゆみ](https://www.slideshare.net/ihcomega/java2014-41675903)
+
+
+
 ランダム|おひとりさま勉強会|-|[#yokodokusho](https://twitter.com/search?q=%23yokodokusho)
 
 # 映像
