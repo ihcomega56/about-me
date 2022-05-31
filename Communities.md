@@ -8,8 +8,8 @@
 - [『いちばんやさしいGit&GitHubの教本 人気講師が教えるバージョン管理＆共有入門』](https://book.impress.co.jp/books/1118101036)
 
 # 勉強会・カンファレンス登壇
-- [Speaker Deck](http://speakerdeck.com/ihcomega56)  
-(old: [SlideShare](https://www.slideshare.net/ihcomega))
+- [Speaker Deck](http://speakerdeck.com/ihcomega56)　(old: [SlideShare](https://www.slideshare.net/ihcomega))
+- [JFrog主催のイベントにおける登壇履歴一覧](JFrogHostingEvents.md)
 
 日付|イベント|開催地|タイトル・資料
 ---|------|-----|------------
