@@ -15,13 +15,13 @@
 * SpeakerDeck: [ihcomega56](https://speakerdeck.com/ihcomega56)
 
 # スキル
--> [Skills](Skills)
+-> [Skills](Skills.md)
 
 # 職務経歴
--> [Career](Career)
+-> [Career](Career.md)
 
 # 資格
--> [Licenses](Licenses)
+-> [Licenses](Licenses.md)
 
 # コミュニティ・メディア
--> [Communities](Communities)
+-> [Communities](Communities.md)
