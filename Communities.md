@@ -12,7 +12,14 @@
 
 日付|イベント|開催地|タイトル・資料
 ---|------|-----|------------
-2021.11.11|[開発・運用効率とセキュリティ向上を助けるアーティファクト管理](https://jfrog.connpass.com/event/230752/)|オンライン|[開発・運用効率とセキュリティ向上を助けるアーティファクト管理](https://drive.google.com/file/d/1W7QHcTpqPjImJwVUxYvJgLRImdb5H65R/view)
+2022.05.27|[HashiCorp & JFrog で始める CI/CD DevOps パイプライン](https://hashicorp.connpass.com/event/248826/)|オンライン|[動画](https://www.youtube.com/watch?v=HoW1LOw68qc)
+2022.05.20|[HashiCorp前田さんと語るGitOps！よこなの部屋](https://jfrog.connpass.com/event/245082/)|オンライン|動画
+2022.04.28|[Dockerはじめの一歩]([https://leap.jfrog.com/WN-2021-04-Introduction-to-Docker-Japan-APAC-LP.html](https://leap.jfrog.com/WN-Cloud-2022-04-Docker-First-Steps-Ayana-Japan-APAC-LP.html))|オンライン|[Dockerはじめの一歩](https://speakerdeck.com/ihcomega56/the-first-step-of-docker)
+2022.03.24|[SCAとDockerを触ってみよう！DecSecOps入門ワークショップ](https://leap.jfrog.com/WS-Cloud-2022-03-DevSecOps-Workshop-SCA-Docker-Japan-APAC-LP.html)|オンライン|[SCAとDockerを触ってみよう！DecSecOps入門ワークショップ](https://speakerdeck.com/ihcomega56/sca-and-docker-workshop), [GitHubリポジトリ]https://github.com/ihcomega56/SCAandDockerHandsOn)
+2022.03.17|[SBOMを活用！ソフトウェアの品質を高めるDevSecOps入門](https://leap.jfrog.com/WN-Cloud-2022-03-Introduction-To-DevSecOps-SBOM-Japan-APAC-LP.html)|オンライン|[SBOMを活用！ソフトウェアの品質を高めるDevSecOps入門](https://drive.google.com/file/d/1ocsN8lSIUVI0_zQqyXV0c4bC4kORZ9G4/view)
+2022.01.27|[加藤学さんと語るDevOps, カルチャー！よこなの部屋](https://jfrog.connpass.com/event/234369/)|オンライン|[動画](https://www.youtube.com/watch?v=9WI8DI1jwQw)
+2021.12.09|[CI/CDに挑戦！DevOps・DevSecOps実践ハンズオン](https://leap.jfrog.com/WS-Bin-2021-12-Lets-Challenge-CI-CD-DevOps-Hands-On-Japan-APAC-LP.html)|オンライン|[GitHubリポジトリ](https://github.com/ihcomega56/CICDHandsOnWithJFrog)
+2021.11.11|[開発・運用効率とセキュリティ向上を助けるアーティファクト管理](https://leap.jfrog.com/WN-2021-11-Lets-Manage-Artifacts-Japan-APAC-LP.html)|オンライン|[開発・運用効率とセキュリティ向上を助けるアーティファクト管理](https://drive.google.com/file/d/1W7QHcTpqPjImJwVUxYvJgLRImdb5H65R/view)
 2021.10.08|[Red Hat 伊藤正博(いとま)さんと語るアジャイル, DevOps！よこなの部屋](https://jfrog.connpass.com/event/226423/)|オンライン|[動画](https://youtu.be/9WI8DI1jwQw)
 2021.09.28|[Dockerよちよち歩きハンズオン](https://leap.jfrog.com/WS-2021-09-Docker-Japan-APAC-LP.html)|オンライン|[Dockerよちよち歩きハンズオン](https://speakerdeck.com/ihcomega56/docker-hands-on-for-beginners), [GitHubリポジトリ](https://github.com/ihcomega56/DockerHandsOn)
 2021.08.26|[Dockerはじめの一歩](https://leap.jfrog.com/WN-2021-04-Introduction-to-Docker-Japan-APAC-LP.html)|オンライン|[Dockerはじめの一歩](https://speakerdeck.com/ihcomega56/the-first-step-of-docker)
