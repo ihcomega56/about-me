@@ -5,7 +5,7 @@
 # 書籍
 - [『Software Design 2022年4月号』](https://gihyo.jp/dp/ebook/2022/978-4-297-12731-2)
 - [『いちばんやさしいGit&GitHubの教本 第2版 人気講師が教えるバージョン管理＆共有入門』](https://book.impress.co.jp/books/1121101087)
-- [『いちばんやさしいGit&GitHubの教本 人気講師が教えるバージョン管理＆共有入門』]([https://amzn.to/2vJqYCi](https://book.impress.co.jp/books/1118101036))
+- [『いちばんやさしいGit&GitHubの教本 人気講師が教えるバージョン管理＆共有入門』](https://book.impress.co.jp/books/1118101036)
 
 # 勉強会・カンファレンス登壇
 - [Speaker Deck](http://speakerdeck.com/ihcomega56)  
@@ -13,7 +13,6 @@
 
 日付|イベント|開催地|タイトル・資料
 ---|------|-----|------------
-
 2019.08.14|[Scramble! #3 FOLIO流 複雑なドメインとの戦い方](https://folio.connpass.com/event/138324/)|東京|[本当にはじめられたイベントストーミング ―実践してみて見えたこと―](https://speakerdeck.com/ihcomega56/ben-dang-nihazimeraretaibentosutomingu-shi-jian-sitemitejian-etakoto)
 2019.04.20|[いちばんやさしいGitのハンズオン](https://kanjava.connpass.com/event/126258/)|大阪|[『いちばんやさしいGit&GitHubの教本』](https://amzn.to/2vJqYCi)
 2019.04.26|[JJUGナイトセミナー 「いちばんやさしいGit・GitHub入門」](https://jjug.doorkeeper.jp/events/89752)|東京|[いちばんやさしいGitHub入門](https://speakerdeck.com/ihcomega56/itibanyasasiigithubru-men)
