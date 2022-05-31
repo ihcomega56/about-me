@@ -9,10 +9,16 @@
 
 # 勉強会・カンファレンス登壇
 - [Speaker Deck](http://speakerdeck.com/ihcomega56)　(old: [SlideShare](https://www.slideshare.net/ihcomega))
-- [JFrog主催のイベントにおける登壇履歴一覧](JFrogHostingEvents.md)
 
 日付|イベント|開催地|タイトル・資料
 ---|------|-----|------------
+2020.11.05|[JFrogとMackerelで実践する一歩進んだDevOps](https://jfrog.connpass.com/event/192960/)|online|[10分で抑えるDevOps](https://speakerdeck.com/ihcomega56/10-minutes-devops-lesson)
+2020.10.15|[DevOpsって何だろう](https://leap.jfrog.com/WN-2020-10-What-is-DevOps-Japan-APAC-LP.html)|online|[DevOpsって何だろう](https://speakerdeck.com/ihcomega56/what-is-devops)
+2020.09.03|[バイナリ・リポジトリマネージャーのある開発・運用フローを考える](https://leap.jfrog.com/WN-2020-09-Binary-Repository-Manager-Japan-APAC-LP.html)|online|[バイナリ・リポジトリマネージャーのある開発・運用フローを考える](https://speakerdeck.com/ihcomega56/workflow-with-a-binary-repository-manager)
+2020.08.25|[CircleCIとJFrogで始めるCI/CD](https://www2.circleci.com/Webinar_2020-08-25.html)|online|[JFrogで実現する安心・安全なアーティファクト管理](https://speakerdeck.com/ihcomega56/artifact-management-with-jfrog)
+2020.07.30|[DevOpsって何だろう？デモ編 JFrogとJenkinsでCI/CDにトライ！](https://leap.jfrog.com/WN-2020-07-Try-CI-CD-with-JFrog-and-Jenkins-Japan-APAC-LP.html)|online|[DevOpsって何だろう？デモ編 JFrogとJenkinsでCI/CDにトライ！](https://speakerdeck.com/ihcomega56/what-is-devops-with-demo)
+2020.07.09|[DevOpsって何だろう](https://leap.jfrog.com/WN-2020-07-What-is-Dev-Ops-Japan-APAC-LP)|online|[DevOpsって何だろう](https://speakerdeck.com/ihcomega56/what-is-devops)
+2020.05.22|[CircleCIとJFrogで始めるCI/CD](https://www2.circleci.com/20200522-webinar-LP-JP.html)|online|[JFrogで実現する安心・安全なアーティファクト管理](https://speakerdeck.com/ihcomega56/artifact-management-with-jfrog)
 2019.08.14|[Scramble! #3 FOLIO流 複雑なドメインとの戦い方](https://folio.connpass.com/event/138324/)|東京|[本当にはじめられたイベントストーミング ―実践してみて見えたこと―](https://speakerdeck.com/ihcomega56/ben-dang-nihazimeraretaibentosutomingu-shi-jian-sitemitejian-etakoto)
 2019.04.20|[いちばんやさしいGitのハンズオン](https://kanjava.connpass.com/event/126258/)|大阪|[『いちばんやさしいGit&GitHubの教本』](https://amzn.to/2vJqYCi)
 2019.04.26|[JJUGナイトセミナー 「いちばんやさしいGit・GitHub入門」](https://jjug.doorkeeper.jp/events/89752)|東京|[いちばんやさしいGitHub入門](https://speakerdeck.com/ihcomega56/itibanyasasiigithubru-men)
