@@ -38,6 +38,7 @@
 2020.07.30|[DevOpsって何だろう？デモ編 JFrogとJenkinsでCI/CDにトライ！](https://leap.jfrog.com/WN-2020-07-Try-CI-CD-with-JFrog-and-Jenkins-Japan-APAC-LP.html)|オンライン|[DevOpsって何だろう？デモ編 JFrogとJenkinsでCI/CDにトライ！](https://speakerdeck.com/ihcomega56/what-is-devops-with-demo)
 2020.07.09|[DevOpsって何だろう](https://leap.jfrog.com/WN-2020-07-What-is-Dev-Ops-Japan-APAC-LP)|オンライン|[DevOpsって何だろう](https://speakerdeck.com/ihcomega56/what-is-devops)
 2020.05.22|[CircleCIとJFrogで始めるCI/CD](https://www2.circleci.com/20200522-webinar-LP-JP.html)|オンライン|[JFrogで実現する安心・安全なアーティファクト管理](https://speakerdeck.com/ihcomega56/artifact-management-with-jfrog)
+2020.04.12|[Java女子部 / みんなのお仕事知ってみよう！](https://javajo.doorkeeper.jp/events/105742)|オンライン|結論みんなちがって、みんないい（かも） ※資料非公開
 2019.08.14|[Scramble! #3 FOLIO流 複雑なドメインとの戦い方](https://folio.connpass.com/event/138324/)|東京|[本当にはじめられたイベントストーミング ―実践してみて見えたこと―](https://speakerdeck.com/ihcomega56/ben-dang-nihazimeraretaibentosutomingu-shi-jian-sitemitejian-etakoto)
 2019.04.20|[いちばんやさしいGitのハンズオン](https://kanjava.connpass.com/event/126258/)|大阪|[『いちばんやさしいGit&GitHubの教本』](https://amzn.to/2vJqYCi)
 2019.04.26|[JJUGナイトセミナー 「いちばんやさしいGit・GitHub入門」](https://jjug.doorkeeper.jp/events/89752)|東京|[いちばんやさしいGitHub入門](https://speakerdeck.com/ihcomega56/itibanyasasiigithubru-men)
