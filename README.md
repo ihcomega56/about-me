@@ -1,5 +1,3 @@
-全体的に見直し予定。
-
 # 基本情報
 
 **横田紋奈 / Ayana Yokota**
@@ -17,13 +15,13 @@
 * SpeakerDeck: [ihcomega56](https://speakerdeck.com/ihcomega56)
 
 # スキル
--> [Skills](https://github.com/ihcomega56/about-me/blob/master/Skills.md)
+-> [Skills](Skills)
 
 # 職務経歴
--> [Career](https://github.com/ihcomega56/about-me/blob/master/Career.md)
+-> [Career](Career)
 
 # 資格
--> [Licenses](https://github.com/ihcomega56/about-me/blob/master/Licenses.md)
+-> [Licenses](Licenses)
 
 # コミュニティ・メディア
--> [Communities](https://github.com/ihcomega56/about-me/blob/master/Communities.md)
+-> [Communities](Communities)
