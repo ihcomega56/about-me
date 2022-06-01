@@ -60,7 +60,7 @@
 2017.12.23|[皆でセッション大会！Java SE 9を教え合おう！ ](https://javajo.doorkeeper.jp/events/68251)|東京|[JShellで遊んでみよう](https://speakerdeck.com/ihcomega56/jshelldeyou-ndemiyou)
 2017.11.18|[JJUG CCC 2017 Fall](http://www.java-users.jp/ccc2017fall/)|東京|[年齢も経験も関係ない！ステップアップするためのJavaコミュニティ活用術](https://speakerdeck.com/ihcomega56/nian-ling-mojing-yan-moguan-xi-nai-sutetuhuatuhusurutamefalsejavakomiyuniteihuo-yong-shu)
 2017.10.21|[Java SE 9/EE 8リリースイベント 兼 JavaOne 2017 報告会](https://jjug.doorkeeper.jp/events/66256)|東京|[Attend JavaOne as a Community Master](https://speakerdeck.com/ihcomega56/attend-javaone-as-a-community-master)
-2017.10.01|[JavaOne 2017]|サンフランシスコ|[Growth of a woman community In Japan](https://speakerdeck.com/ihcomega56/growth-of-a-woman-community-in-japan)
+2017.10.01|[JavaOne 2017](https://www.oracle.com/jp/cloudworld/javaone/)|サンフランシスコ|[Growth of a woman community In Japan](https://speakerdeck.com/ihcomega56/growth-of-a-woman-community-in-japan)
 2017.05.20|[JJUG CCC 2017 Spring](http://www.java-users.jp/ccc2017spring/)|東京|[文型さえおさえれば英語を読む力はあがる！](https://speakerdeck.com/ihcomega56/wen-xing-saeosaerebaying-yu-wodu-muli-haagaru)
 2017.05.13|[Java x Scala 交流会](https://javajo.doorkeeper.jp/events/59755)|東京|[Option(al)が教えてくれたいろんな言語を知る楽しさ(というかひたすらOptionの解説)](https://speakerdeck.com/ihcomega56/option-al-gajiao-etekuretaironnayan-yu-wozhi-rule-sisa-toiukahitasuraoptionfalsejie-shuo)
 2016.12.03|[JJUG CCC 2016 Fall](http://www.java-users.jp/ccc2016fall/)|東京|[マチコ&河村の怒り新党](https://speakerdeck.com/ihcomega56/matiko-and-he-cun-falsenu-rixin-dang)
