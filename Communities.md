@@ -14,7 +14,7 @@
 ---|------|-----|------------
 2022.05.27|[HashiCorp & JFrog で始める CI/CD DevOps パイプライン](https://hashicorp.connpass.com/event/248826/)|オンライン|[動画](https://www.youtube.com/watch?v=HoW1LOw68qc)
 2022.05.20|[HashiCorp前田さんと語るGitOps！よこなの部屋](https://jfrog.connpass.com/event/245082/)|オンライン|動画
-2022.04.28|[Dockerはじめの一歩]([https://leap.jfrog.com/WN-2021-04-Introduction-to-Docker-Japan-APAC-LP.html](https://leap.jfrog.com/WN-Cloud-2022-04-Docker-First-Steps-Ayana-Japan-APAC-LP.html))|オンライン|[Dockerはじめの一歩](https://speakerdeck.com/ihcomega56/the-first-step-of-docker)
+2022.04.28|[Dockerはじめの一歩](https://leap.jfrog.com/WN-Cloud-2022-04-Docker-First-Steps-Ayana-Japan-APAC-LP.html)|オンライン|[Dockerはじめの一歩](https://speakerdeck.com/ihcomega56/the-first-step-of-docker)
 2022.03.24|[SCAとDockerを触ってみよう！DecSecOps入門ワークショップ](https://leap.jfrog.com/WS-Cloud-2022-03-DevSecOps-Workshop-SCA-Docker-Japan-APAC-LP.html)|オンライン|[SCAとDockerを触ってみよう！DecSecOps入門ワークショップ](https://speakerdeck.com/ihcomega56/sca-and-docker-workshop), [GitHubリポジトリ](https://github.com/ihcomega56/SCAandDockerHandsOn)
 2022.03.17|[SBOMを活用！ソフトウェアの品質を高めるDevSecOps入門](https://leap.jfrog.com/WN-Cloud-2022-03-Introduction-To-DevSecOps-SBOM-Japan-APAC-LP.html)|オンライン|[SBOMを活用！ソフトウェアの品質を高めるDevSecOps入門](https://drive.google.com/file/d/1ocsN8lSIUVI0_zQqyXV0c4bC4kORZ9G4/view)
 2022.03.11|[Observability Conference 2022](https://event.cloudnativedays.jp/o11y2022)|オンライン|[JFrogのDevOps Platformづくりを支えるオブザーバビリティ](https://speakerdeck.com/ihcomega56/jfrog-observability)
