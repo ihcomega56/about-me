@@ -12,8 +12,11 @@
 
 日付|イベント|開催地|タイトル・資料
 ---|------|-----|------------
+2023.04.07|[ふりかえりカンファレンス](https://retrospective.connpass.com/event/266892/)|オンライン|[シリコンバレーのチームで経験したふりかえり - 共通点とギャップ](https://speakerdeck.com/ihcomega56/retrospectives-in-silicon-valley)
+2022.07.21|[Developers Summit 2022 Summer]|オンライン|[「サプライチェーン攻撃」に立ち向かう！SBOMを使った脆弱性管理がもたらす品質とスピード向上](https://speakerdeck.com/ihcomega56/sbom-makes-your-work-more-efficient-and-secure), [DevOpsと何が違うの？ 開発生産性向上のために知っておきたいDevOpsの現在と発展](https://speakerdeck.com/ihcomega56/devsecops-from-dev-point-of-view)
+2022.06.19|[JJUG CCC 2022 Fall](https://ccc2022fall.java-users.jp/)|オンライン|[パターンマッチングを学んで新しいJavaの世界へ！Java 18までの目玉機能をおさらいしよう](https://speakerdeck.com/ihcomega56/java-18-pattern-matching), [動画](https://youtu.be/E3DjKFXI7Fo)
 2022.05.27|[HashiCorp & JFrog で始める CI/CD DevOps パイプライン](https://hashicorp.connpass.com/event/248826/)|オンライン|[動画](https://www.youtube.com/watch?v=HoW1LOw68qc)
-2022.05.20|[HashiCorp前田さんと語るGitOps！よこなの部屋](https://jfrog.connpass.com/event/245082/)|オンライン|動画
+2022.05.20|[HashiCorp前田さんと語るGitOps！よこなの部屋](https://jfrog.connpass.com/event/245082/)|オンライン|[動画](https://youtu.be/ATRsgwlceCQ)
 2022.04.28|[Dockerはじめの一歩](https://leap.jfrog.com/WN-Cloud-2022-04-Docker-First-Steps-Ayana-Japan-APAC-LP.html)|オンライン|[Dockerはじめの一歩](https://speakerdeck.com/ihcomega56/the-first-step-of-docker)
 2022.03.24|[SCAとDockerを触ってみよう！DecSecOps入門ワークショップ](https://leap.jfrog.com/WS-Cloud-2022-03-DevSecOps-Workshop-SCA-Docker-Japan-APAC-LP.html)|オンライン|[SCAとDockerを触ってみよう！DecSecOps入門ワークショップ](https://speakerdeck.com/ihcomega56/sca-and-docker-workshop), [GitHubリポジトリ](https://github.com/ihcomega56/SCAandDockerHandsOn)
 2022.03.17|[SBOMを活用！ソフトウェアの品質を高めるDevSecOps入門](https://leap.jfrog.com/WN-Cloud-2022-03-Introduction-To-DevSecOps-SBOM-Japan-APAC-LP.html)|オンライン|[SBOMを活用！ソフトウェアの品質を高めるDevSecOps入門](https://drive.google.com/file/d/1ocsN8lSIUVI0_zQqyXV0c4bC4kORZ9G4/view)
